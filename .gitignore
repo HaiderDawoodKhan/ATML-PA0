@@ -1,1 +1,6 @@
-data
+cifar_data
+fashion_mnist_data
+stl_data
+mnist_data
+__pycache__
+architecture.py
